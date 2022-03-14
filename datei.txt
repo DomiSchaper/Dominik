@@ -3,9 +3,13 @@ Ich hab eine Vagaga
 Ich bin ein Satz.
 Ich bin noch ein Satz.  
 <<<<<<< HEAD
+<<<<<<< HEAD
 Annother one
 AAAAAAnd another one  
 Dicke titten KartoffelSALAT! 
+=======
+
+>>>>>>> parent of f10292c... Added another line into the txt and bla und so
 =======
 
 >>>>>>> parent of f10292c... Added another line into the txt and bla und so
