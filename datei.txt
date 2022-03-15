@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Noch ein TEst!Hier hat nichts anstößiges zu stehen, =======
+=======
+!!!!
+TEst!Hier hat nichts anstößiges zu stehen, =======
+>>>>>>> dominik
 >>>>>>> parent of f10292c... Added another line into the txt and bla und so
 =======
 
