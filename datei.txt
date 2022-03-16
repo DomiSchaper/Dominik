@@ -1,15 +1,1 @@
-	<<<<<<< HEAD
-	<<<<<<< HEAD
-	mau mau mau  Noch ein TEst!Hier hat nichts anstößiges zu stehen, =======
-	=======
-	Hier könnte Ihre werbung stehen, und ob ich es schaffe, etwas zu pushen
-Noch ein TEst!Hier hat nichts anstößiges zu stehen, =======
->>>>>>> dominik
-=======
-!!!!
-TEst!Hier hat nichts anstößiges zu stehen, =======
->>>>>>> dominik
->>>>>>> parent of f10292c... Added another line into the txt and bla und so
-=======
-
->>>>>>> parent of f10292c... Added another line into the txt and bla und so
+Hier soll nur DIESER Satz stehen.
