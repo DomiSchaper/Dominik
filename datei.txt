@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ...Hier soll nur DIESER Satz stehen.
 es können auch mehrere Sätze da stehen.
 Oder vielleicht doch . 
+=======
+..#Hier soll nur DIESER Satz stehen.
+//Es können jedoch in anderen Zeilen mehr hinzugefügt werden.
+//Oder vielleicht doch . 
+>>>>>>> refs/remotes/origin/main
